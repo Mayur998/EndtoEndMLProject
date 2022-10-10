@@ -8,4 +8,5 @@ Deployemnt OF the Model
 
 conda create -p venv python=3.7 -y
 create Requirement.txt file for importing packages.
+Connect Git with Local Repositery
 
